@@ -146,12 +146,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-<img width="955" height="970" alt="image" src="https://github.com/user-attachments/assets/8550d90d-0d98-4544-9560-0c7707a9a5d0" />
-
-<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/d5d674d5-82a1-420e-b54c-c13b47fc1a1c" />
-
-<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/3d2d0fd1-5c94-4e73-bcd0-149f059ed866" />
-
+<img width="1515" height="1038" alt="ChatGPT Image May 21, 2026, 11_14_00 PM" src="https://github.com/user-attachments/assets/6fb134eb-536f-4d0c-8625-66eb24357e44" />
 
 
 
