@@ -150,6 +150,8 @@ int main(int argc, char *argv[]) {
 
 <img width="1904" height="826" alt="ChatGPT Image May 21, 2026, 11_17_13 PM" src="https://github.com/user-attachments/assets/1e75f409-5e01-4f9e-ba58-5c1ac631e94f" />
 
+<img width="1721" height="914" alt="ChatGPT Image May 21, 2026, 11_36_50 PM" src="https://github.com/user-attachments/assets/8a03cbee-bba1-4ff4-ae85-4939b7252283" />
+
 
 # RESULT:
 The programs are executed successfully.
